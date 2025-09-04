@@ -1,0 +1,2 @@
+app/llm_models/4bit/Qwen3-8B_FP16_Q4_K_M.gguf
+app/llm_models/8bit/Qwen3-8B_FP16_Q8_0.gguf

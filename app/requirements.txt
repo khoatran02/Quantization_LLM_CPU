@@ -1,0 +1,7 @@
+flask
+flask-restx
+fastapi
+uvicorn[standard]
+llama-cpp-python
+huggingface-hub
+pydantic
